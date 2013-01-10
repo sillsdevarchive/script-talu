@@ -1,0 +1,25 @@
+tasks.txt - script-talu project
+
+Current
+
+- Convert FontLab sources to FontForge
+	- Check glyph names and encoding
+	- Check metadata
+- Add two additional glyphs (U+19AA..19AB)
+- Changes to two numerals (U+19D2 & U+19D4)
+- Revise punctuation size, position, spacing
+	- Need further guidance on this
+- Adjust design as per feedback
+- Add roman sans serif glyphs and any others recommended
+- Check Unicode Ranges
+- Generate and test
+- Add gdl code and test
+- Release "Nokyung Design Review" (beta)
+
+Future
+
+- Incorporate changes from design review beta
+- Release final font - regular face only
+- Bold
+
+Issues to address
