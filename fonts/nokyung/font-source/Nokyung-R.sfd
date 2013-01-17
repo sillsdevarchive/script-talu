@@ -8,8 +8,8 @@ Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
-Ascent: 1638
-Descent: 410
+Ascent: 1650
+Descent: 398
 sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back"  1
@@ -18,28 +18,28 @@ XUID: [1021 140 1873711314 9624742]
 FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
+OS2_UseTypoMetrics: 0
 CreationTime: 1227525540
-ModificationTime: 1358350000
+ModificationTime: 1358433965
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
 Panose: 2 0 4 0 0 0 0 0 0 0
-OS2TypoAscent: 24
-OS2TypoAOffset: 1
-OS2TypoDescent: -238
-OS2TypoDOffset: 1
+OS2TypoAscent: 1700
+OS2TypoAOffset: 0
+OS2TypoDescent: -750
+OS2TypoDOffset: 0
 OS2TypoLinegap: 0
-OS2WinAscent: 15
-OS2WinAOffset: 1
-OS2WinDescent: -93
-OS2WinDOffset: 1
-HheadAscent: 15
-HheadAOffset: 1
-HheadDescent: 93
-HheadDOffset: 1
+OS2WinAscent: 1700
+OS2WinAOffset: 0
+OS2WinDescent: 750
+OS2WinDOffset: 0
+HheadAscent: 1700
+HheadAOffset: 0
+HheadDescent: -750
+HheadDOffset: 0
 OS2SubXSize: 1331
 OS2SubYSize: 1228
 OS2SubXOff: 0
@@ -70,6 +70,20 @@ OtherBlues 11 [-443 -439]
 BlueScale 8 0.039625
 ExpansionFactor 4 0.06
 EndPrivate
+Grid
+-2048 -740 m 0
+ 4096 -740 l 0
+  Named: "d740"
+-2048 1650 m 0
+ 4096 1650 l 0
+  Named: "a1650"
+-2048 930.028198242 m 0
+ 4096 930.028198242 l 0
+  Named: "o930"
+-2048 910.028190613 m 0
+ 4096 910.028190613 l 0
+  Named: "x910"
+EndSplineSet
 BeginChars: 65541 219
 
 StartChar: .notdef
@@ -4076,6 +4090,7 @@ SplineSet
  -180 -488 -341 -580 -565 -580 c 0
  -789 -580 -945 -488 -945 -345 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: dailuemodifierfinal
@@ -4101,6 +4116,7 @@ SplineSet
  -600 -364 -505 -280 -385 -280 c 0
  -271 -280 -160 -430 -140 -505 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni2009
@@ -4612,6 +4628,7 @@ SplineSet
  1225 65 l 1
  1575 65 1744 -102 1744 -335 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D0
@@ -4634,6 +4651,7 @@ SplineSet
  882 105 1030 260 1030 470 c 0
  1030 691 872 845 635 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199E
@@ -4656,6 +4674,7 @@ SplineSet
  882 105 1030 260 1030 470 c 0
  1030 691 872 845 635 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B1
@@ -4683,33 +4702,42 @@ SplineSet
  880 970 1095 748 1095 470 c 0
  1095 186 881 -20 555 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1985
 Encoding: 6533 6533 142
 Width: 1250
-Flags: MW
+Flags: HMWO
 HStem: -24 21G 845 125<500.5 751>
 VStem: 110 125<359.5 546 359.5 597.5> 1015 125<353.5 553.5>
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
-110 440 m 0
- 110 755 337 970 625 970 c 0
- 939 970 1140 766 1140 450 c 0
- 1140 219 1059 61 880 -20 c 0
- 870 -24 859 -23 854 -14 c 2
+110 420 m 0
+ 110 725 337 930 625 930 c 0
+ 939 930 1140 736 1140 430 c 0
+ 1140 209 1059 71 880 -20 c 0
+ 870.399121074 -24.8808937556 859 -23 854 -14 c 2
  806 64 l 2
- 801 72 805 87 815 90 c 0
- 950 138 1015 257 1015 450 c 0
- 1015 657 877 845 625 845 c 0
- 376 845 235 652 235 440 c 0
- 235 279 308 166 415 85 c 0
+ 801 72 805.407523271 85.8787877756 815 90 c 0
+ 950 148 1015 247 1015 430 c 0
+ 1015 627 877 805 625 805 c 0
+ 376 805 235 622 235 420 c 0
+ 235 269 308 166 415 85 c 0
  425 78 428 66 421 55 c 1
  367 -14 l 1
  360 -25 345 -28 335 -20 c 0
- 188 87 110 233 110 440 c 0
+ 188 87 110 223 110 420 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198D
@@ -4755,6 +4783,7 @@ SplineSet
  988 400 l 2
  997 400 1005 390 1005 380 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1982
@@ -4800,6 +4829,7 @@ SplineSet
  877 550 l 2
  868 550 860 560 860 570 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B2
@@ -4829,6 +4859,7 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C0
@@ -4871,6 +4902,7 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B8
@@ -4905,6 +4937,7 @@ SplineSet
  846 342 605 -22 356 -20 c 0
  221 -19 115 75 91 200 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1995
@@ -4952,6 +4985,7 @@ SplineSet
  1041 970 1095 813 1095 600 c 0
  1095 312 934 -20 545 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A0
@@ -4985,6 +5019,7 @@ SplineSet
  298 815 245 630 245 470 c 0
  245 230 354 105 530 105 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199F
@@ -5020,6 +5055,7 @@ SplineSet
  1211 965 1248 970 1280 970 c 0
  1525 969 1635 742 1635 470 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1990
@@ -5070,6 +5106,7 @@ SplineSet
  1024 -740 865 -591 865 -405 c 0
  865 -377 870 -358 872 -349 c 0xdf
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B5
@@ -5103,6 +5140,7 @@ SplineSet
  1197 49 1141 -20 1051 -20 c 0
  945 -20 876 52 876 140 c 0x78
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C2
@@ -5144,6 +5182,7 @@ SplineSet
  774 -400 735 -440 735 -505 c 0
  735 -570 774 -615 840 -615 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1996
@@ -5192,6 +5231,7 @@ SplineSet
  298 815 245 630 245 470 c 0
  245 230 354 105 530 105 c 0xbf
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BD
@@ -5227,6 +5267,7 @@ SplineSet
  746 105 850 240 850 470 c 0xfa
  850 711 747 845 545 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C5
@@ -5284,6 +5325,7 @@ SplineSet
  1195 -364 1290 -280 1410 -280 c 0
  1524 -280 1635 -430 1655 -505 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BE
@@ -5322,6 +5364,7 @@ SplineSet
  846 342 605 -22 356 -20 c 0
  221 -19 115 75 91 200 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1989
@@ -5362,6 +5405,7 @@ SplineSet
  750 970 925 759 925 471 c 0
  925 167 751 -20 495 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C1
@@ -5397,6 +5441,7 @@ SplineSet
  786 105 910 240 910 470 c 0xfe
  910 711 787 845 575 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C7
@@ -5437,6 +5482,7 @@ SplineSet
  982 873 1070 717 1070 500 c 0xfa
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A2
@@ -5464,6 +5510,7 @@ SplineSet
  982 873 1070 717 1070 500 c 0
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1998
@@ -5504,6 +5551,7 @@ SplineSet
  750 970 925 759 925 471 c 0
  925 167 751 -20 495 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BB
@@ -5544,6 +5592,7 @@ SplineSet
  795 970 976 758 976 470 c 0xec
  976 166 796 -20 520 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B9
@@ -5580,6 +5629,7 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BF
@@ -5629,6 +5679,7 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B6
@@ -5683,6 +5734,7 @@ SplineSet
  2447 49 2391 -20 2301 -20 c 0x7a80
  2195 -20 2126 52 2126 140 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1994
@@ -5712,6 +5764,7 @@ SplineSet
  1002 1455 997 1214 1055 710 c 0xec
  1100 318 985 -20 575 -20 c 0xf4
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198A
@@ -5754,6 +5807,7 @@ SplineSet
  527 485 l 2
  527 476 517 468 507 468 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198E
@@ -5789,6 +5843,7 @@ SplineSet
  672 105 780 260 780 470 c 0
  780 691 672 845 505 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1988
@@ -5818,6 +5873,7 @@ SplineSet
  300 -20 130 82 130 280 c 0
  130 444 348 514 482 514 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1992
@@ -5847,6 +5903,7 @@ SplineSet
  1180 150 1058 -20 860 -20 c 0
  666 -20 606 198 606 332 c 1
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1999
@@ -5887,6 +5944,7 @@ SplineSet
  902 460 1125 223 1125 -140 c 0xf4
  1125 -503 922 -740 615 -740 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C4
@@ -5936,6 +5994,7 @@ SplineSet
  495 -414 455 -375 390 -375 c 0
  325 -375 280 -414 280 -480 c 0xf680
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1983
@@ -5971,6 +6030,7 @@ SplineSet
  1134 -503 900 -740 573 -740 c 0
  351 -740 126 -636 48 -472 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1986
@@ -6004,18 +6064,19 @@ SplineSet
  379 -24 365 -28 355 -20 c 0
  208 87 130 223 130 420 c 0
  130 725 352 930 630 930 c 0xf4
-665 1545 m 0xec
- 368 1545 270 1281 270 1120 c 0
- 270 1014 281 886 329 757 c 1
+665 1555 m 0xec
+ 368 1555 270 1321 270 1150 c 0
+ 270 1044 281 886 329 757 c 1
  217 644 l 1
- 168 793 145 954 145 1120 c 0
- 145 1344 278 1640 665 1640 c 0
- 892 1640 1051 1474 1091 1352 c 0
- 1094 1342 1087 1330 1077 1326 c 2
- 1045 1315 l 2
- 1037 1312 1024 1320 1020 1330 c 0
- 975 1430 861 1545 665 1545 c 0xec
+ 168 793 145 984 145 1150 c 0
+ 145 1384 278 1650 665 1650 c 0
+ 892 1650 1051 1504 1091 1382 c 0
+ 1094 1372 1087 1360 1077 1356 c 2
+ 1045 1345 l 2
+ 1037 1342 1024 1350 1020 1360 c 0
+ 975 1460 861 1555 665 1555 c 0xec
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199D
@@ -6071,6 +6132,7 @@ SplineSet
  1082 1242 1069 1250 1065 1260 c 0
  1020 1360 906 1475 710 1475 c 0xee
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B3
@@ -6106,6 +6168,7 @@ SplineSet
  270 -13 270 -120 284 -250 c 0
  310 -496 430 -645 616 -645 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1993
@@ -6141,6 +6204,7 @@ SplineSet
  854 150 1077 -17 1077 -290 c 0
  1077 -553 894 -740 577 -740 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C3
@@ -6181,6 +6245,7 @@ SplineSet
  390 25 241 1 154 -45 c 0
  145 -50 132 -42 132 -31 c 2xfb
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198F
@@ -6223,6 +6288,7 @@ SplineSet
  905 970 1065 676 1065 120 c 0
  1065 -435 923 -740 580 -740 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1991
@@ -6265,6 +6331,7 @@ SplineSet
  260 -20 140 274 140 770 c 0
  140 1265 302 1570 625 1570 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1981
@@ -6334,6 +6401,7 @@ SplineSet
  1225 64 l 1
  1575 64 1744 -103 1744 -336 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1987
@@ -6371,6 +6439,7 @@ SplineSet
  228 -372 242 -379 245 -390 c 0
  290 -540 404 -635 610 -635 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198B
@@ -6409,6 +6478,7 @@ SplineSet
  774 65 l 1
  964 65 1158 -102 1158 -335 c 0xba
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A1
@@ -6434,7 +6504,7 @@ SplineSet
  929 700 765 845 569 845 c 0
  436 845 284 760 201 673 c 0xe8
 1058 -335 m 0
- 1058 -608 795 -740 538 -740 c 0
+ 1058 -608 795 -740 538 -740 c 4
  310 -740 132 -574 82 -442 c 0
  78 -432 86 -420 96 -416 c 2
  128 -405 l 2
@@ -6445,6 +6515,7 @@ SplineSet
  539 65 l 1
  889 65 1058 -102 1058 -335 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni198C
@@ -6494,6 +6565,7 @@ SplineSet
  794 65 l 1
  984 65 1178 -102 1178 -335 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B7
@@ -6503,13 +6575,6 @@ Flags: HMW
 HStem: -20 125<524 713 524 759> 885 85<539.5 657 548.5 657> 1460 110<513 698>
 VStem: 110 125<360.5 601 360.5 648> 138 125<1146.5 1298 1146.5 1344> 923 95<1245 1327.5>
 LayerCount: 2
-UndoRedoHistory
-Layer: 0
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Back
 SplineSet
 630 -20 m 4xf4
@@ -6541,13 +6606,6 @@ SplineSet
  672 902 l 6
  672 893 662 885 652 885 c 4xec
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 630 -20 m 0xf4
@@ -6579,6 +6637,7 @@ SplineSet
  652 822 l 2
  652 813 642 805 632 805 c 0xec
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C6
@@ -6619,6 +6678,7 @@ SplineSet
  430 -411 390 -372 325 -372 c 0
  260 -372 215 -411 215 -477 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D1
@@ -6646,6 +6706,7 @@ SplineSet
  880 970 1095 748 1095 470 c 0
  1095 186 881 -20 555 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199A
@@ -6696,6 +6757,7 @@ SplineSet
  815 1195 935 1221 1041 1269 c 0
  1050 1273 1059 1266 1063 1255 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BA
@@ -6731,6 +6793,7 @@ SplineSet
  1135 210 1138 195 1130 185 c 4
  1023 38 837 -20 630 -20 c 4
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B4
@@ -6771,6 +6834,7 @@ SplineSet
  1130 -250 l 2
  1130 -507 1191 -625 1310 -625 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19BC
@@ -6813,6 +6877,7 @@ SplineSet
  74 931 140 970 210 970 c 0
  296 970 375 898 375 810 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19B0
@@ -6859,6 +6924,7 @@ SplineSet
  1009 255 l 2
  1018 255 1026 245 1026 235 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C8
@@ -6888,6 +6954,7 @@ SplineSet
  344 845 235 719 235 470 c 0
  235 208 369 105 566 105 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19C9
@@ -6917,6 +6984,7 @@ SplineSet
  1015 320 1023 310 1023 300 c 0xf4
  1023 168 893 -20 586 -20 c 0xf8
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D8
@@ -6947,6 +7015,7 @@ SplineSet
  1385 18 l 2
  1385 7 1375 0 1365 0 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A3
@@ -6981,6 +7050,7 @@ SplineSet
  954 -698 l 2
  949 -692 950 -686 958 -678 c 0xec
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1997
@@ -7042,6 +7112,7 @@ SplineSet
  1249 -477 1332 -453 1332 -395 c 0
  1332 -353 1260 -320 1177 -320 c 0xfdc0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A4
@@ -7096,6 +7167,7 @@ SplineSet
  539 65 l 1
  889 65 1058 -102 1058 -335 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A5
@@ -7141,6 +7213,7 @@ SplineSet
  982 873 1070 717 1070 500 c 0
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A6
@@ -7195,6 +7268,7 @@ SplineSet
  1585 -488 1424 -580 1200 -580 c 0
  976 -580 820 -488 820 -345 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199B
@@ -7238,6 +7312,7 @@ SplineSet
  298 815 245 630 245 470 c 0
  245 230 354 105 530 105 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A9
@@ -7286,6 +7361,7 @@ SplineSet
  1020 -488 859 -580 635 -580 c 0
  411 -580 255 -488 255 -345 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19DF
@@ -7331,6 +7407,7 @@ SplineSet
  1382 1455 1377 1214 1435 710 c 1xfe60
  1491 298 1415 -20 1120 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D3
@@ -7365,6 +7442,7 @@ SplineSet
  314 580 l 2
  314 569 304 562 294 562 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni1984
@@ -7421,6 +7499,7 @@ SplineSet
  1328 -290 1395 -348 1395 -430 c 0
  1395 -537 1296 -565 1209 -555 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni199C
@@ -7471,6 +7550,7 @@ SplineSet
  298 815 245 630 245 470 c 0
  245 230 354 105 530 105 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D2
@@ -7504,6 +7584,7 @@ SplineSet
  593 527 l 2
  600 532 611 528 619 522 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D5
@@ -7544,6 +7625,7 @@ SplineSet
  580 593 573 603 573 613 c 0xf4
  573 769 498 845 411 845 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D4
@@ -7622,6 +7704,7 @@ SplineSet
  1011.26464844 169.4296875 l 2
  1006.26464844 176.4296875 993.533203125 176.325195312 983.264648438 172.4296875 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19DA
@@ -7655,6 +7738,7 @@ SplineSet
  579 310 649 242 647 160 c 0
  644 48 555 -20 462 -20 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19DE
@@ -7690,6 +7774,7 @@ SplineSet
  1382 1455 1377 1214 1435 710 c 1xf6
  1491 298 1415 -20 1120 -20 c 0xfa
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D7
@@ -7730,6 +7815,7 @@ SplineSet
  1260 970 1320 575 1255 115 c 0
  1205 -239 1217 -565 1415 -565 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D9
@@ -7761,6 +7847,7 @@ SplineSet
  418 845 255 663 255 200 c 0
  255 -290 409 -575 715 -575 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19D6
@@ -7796,6 +7883,7 @@ SplineSet
  1092 1242 1079 1250 1075 1260 c 0
  1030 1360 936 1475 700 1475 c 0xfa
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A8
@@ -7833,6 +7921,7 @@ SplineSet
  1010 -488 849 -580 625 -580 c 0
  401 -580 245 -488 245 -345 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 
 StartChar: uni19A7
@@ -7874,6 +7963,7 @@ SplineSet
  989 -488 828 -580 604 -580 c 0
  380 -580 224 -488 224 -345 c 0
 EndSplineSet
+Colour: ff00
 EndChar
 EndChars
 EndSplineFont
