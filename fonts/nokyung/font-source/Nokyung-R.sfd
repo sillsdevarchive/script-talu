@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1227525540
-ModificationTime: 1360690461
+ModificationTime: 1360691834
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3856,7 +3856,7 @@ EndChar
 StartChar: dailuemodifierw
 Encoding: 65539 -1 117
 Width: 0
-Flags: HMW
+Flags: HMWO
 LayerCount: 2
 Fore
 SplineSet
@@ -3876,10 +3876,17 @@ EndChar
 
 StartChar: dailuemodifierfinal
 Encoding: 65540 -1 118
-Width: 1
+Width: 0
 Flags: HMW
 LayerCount: 2
-Fore
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Back
 SplineSet
 -140 -510 m 1
  -265 -510 l 1
@@ -3894,6 +3901,29 @@ SplineSet
  -504 -740 -600 -648 -600 -510 c 0
  -600 -369 -505 -285 -385 -285 c 0
  -271 -285 -160 -435 -140 -510 c 1
+EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+-130 -525 m 1
+ -254 -525 l 1
+ -254 -460 -298 -420 -364 -420 c 0
+ -430 -420 -470 -460 -470 -525 c 0
+ -470 -590 -430 -635 -364 -635 c 0
+ -298 -635 -254 -590 -254 -525 c 2
+ -254 234 l 1
+ -130 470 l 1
+ -130 -525 l 2
+ -130 -652 -235 -740 -364 -740 c 0
+ -483 -740 -574 -653 -574 -525 c 0
+ -574 -394 -484 -315 -374 -315 c 0
+ -260 -315 -150 -450 -130 -525 c 1
 EndSplineSet
 Colour: ffffff
 EndChar
@@ -4423,7 +4453,7 @@ EndChar
 StartChar: uni19D0
 Encoding: 6608 6608 139
 Width: 1185
-Flags: MW
+Flags: HMW
 LayerCount: 2
 Back
 SplineSet
@@ -4438,6 +4468,13 @@ SplineSet
  882 105 1030 260 1030 470 c 4
  1030 691 872 845 635 845 c 4
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
 Fore
 SplineSet
 595 930 m 0
@@ -4474,16 +4511,16 @@ SplineSet
 EndSplineSet
 Fore
 SplineSet
-595 930 m 4
- 902 930 1075 733 1075 450 c 4
- 1075 187 912 -20 595 -20 c 4
- 268 -20 110 188 110 450 c 4
- 110 722 278 930 595 930 c 4
-595 805 m 4
- 359 805 235 651 235 450 c 4
- 235 250 369 105 595 105 c 4
- 822 105 950 260 950 450 c 4
- 950 651 812 805 595 805 c 4
+595 930 m 0
+ 902 930 1075 733 1075 450 c 0
+ 1075 187 912 -20 595 -20 c 0
+ 268 -20 110 188 110 450 c 0
+ 110 722 278 930 595 930 c 0
+595 805 m 0
+ 359 805 235 651 235 450 c 0
+ 235 250 369 105 595 105 c 0
+ 822 105 950 260 950 450 c 0
+ 950 651 812 805 595 805 c 0
 EndSplineSet
 Colour: ffffff
 EndChar
@@ -5878,19 +5915,19 @@ SplineSet
  235 250 369 105 595 105 c 0
  822 105 950 260 950 450 c 0
  950 651 812 805 595 805 c 0
-1055 -525 m 1
- 930 -525 l 1
- 930 -460 886 -420 820 -420 c 0
- 754 -420 715 -460 715 -525 c 0
- 715 -590 754 -635 820 -635 c 0
- 886 -635 930 -590 930 -525 c 2
- 930 234 l 1
- 1055 470 l 1
- 1055 -525 l 2
- 1055 -652 949 -740 820 -740 c 0
- 701 -740 610 -653 610 -525 c 0
- 610 -394 700 -315 810 -315 c 0
- 924 -315 1035 -450 1055 -525 c 1
+1055 -525 m 5
+ 930 -525 l 5
+ 930 -460 886 -420 820 -420 c 4
+ 754 -420 715 -460 715 -525 c 4
+ 715 -590 754 -635 820 -635 c 4
+ 886 -635 930 -590 930 -525 c 6
+ 930 234 l 5
+ 1055 470 l 5
+ 1055 -525 l 6
+ 1055 -652 949 -740 820 -740 c 4
+ 701 -740 610 -653 610 -525 c 4
+ 610 -394 700 -315 810 -315 c 4
+ 924 -315 1035 -450 1055 -525 c 5
 EndSplineSet
 Colour: ffffff
 EndChar
@@ -7899,10 +7936,17 @@ EndChar
 
 StartChar: uni19D1
 Encoding: 6609 6609 189
-Width: 1205
-Flags: MW
+Width: 1150
+Flags: HMW
 LayerCount: 2
-Fore
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Back
 SplineSet
 555 -20 m 0
  398 -20 212 33 105 175 c 0
@@ -7920,6 +7964,15 @@ SplineSet
  880 970 1095 748 1095 470 c 0
  1095 186 881 -20 555 -20 c 0
 EndSplineSet
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+Refer: 141 6577 S 1 0 0 1 0 0 2
 Colour: ff00
 EndChar
 
