@@ -12,7 +12,7 @@ APPNAME="NokyungAA"
 VERSION=1.001
 
 font(target = 'NokyungAA.ttf',
-	 source = 'font-source/Nokyung-R.sfd',
+	 source = 'font-source/Nokyung-R-no.sfd',
 	 version = VERSION,
 	 license = ofl('Nokyung'),
 	 copyright = 'Copyright (c) 2008-2013 SIL International',
