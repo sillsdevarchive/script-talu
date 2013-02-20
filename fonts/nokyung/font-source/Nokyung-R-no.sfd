@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: NokyungAB
-FullName: NokyungAB
-FamilyName: NokyungAB
+FontName: NokyungAC
+FullName: NokyungAC
+FamilyName: NokyungAC
 Weight: Normal
 Copyright: Copyright (c) 2008-2013 SIL International
 Version: 001.001
@@ -20,7 +20,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1227525540
-ModificationTime: 1361379235
+ModificationTime: 1361380012
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000001.00000000.00000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Regular" "" "" "Version 1.000" "" "Nokyung is a trademark of SIL International." "SIL International" "Julie Remington & Victor Gaultney" "Copyright (c) 2008-2013 SIL International" "http://www.sil.org/" "" "Copyright (c) 2008-2013 SIL International (http://www.sil.org/), with Reserved Font Names +ACIA-Nokyung+ACIA and +ACIA-SIL+ACIA.+AA0ACgANAAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL+AA0ACgANAAoADQAK------------------------------------------------------------+AA0ACgAA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AA0ACgAA------------------------------------------------------------+AA0ACgANAAoA-PREAMBLE+AA0ACgAA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AA0ACgANAAoA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AA0ACgANAAoA-DEFINITIONS+AA0ACgAi-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AA0ACgANAAoAIgAA-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AA0ACgANAAoAIgAA-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AA0ACgANAAoAIgAA-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AA0ACgANAAoAIgAA-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AA0ACgANAAoA-PERMISSION & CONDITIONS+AA0ACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AA0ACgANAAoA-1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AA0ACgANAAoA-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AA0ACgANAAoA-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AA0ACgANAAoA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AA0ACgANAAoA-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AA0ACgANAAoA-TERMINATION+AA0ACgAA-This license becomes null and void if any of the above conditions are not met.+AA0ACgANAAoA-DISCLAIMER+AA0ACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl" "" "Nokyung" "Regular"
+LangName: 1033 "" "" "Regular" "" "" "Version 1.000" "" "Nokyung is a trademark of SIL International." "SIL International" "Julie Remington & Victor Gaultney" "Copyright (c) 2008-2013 SIL International" "http://www.sil.org/" "" "Copyright (c) 2008-2013 SIL International (http://www.sil.org/), with Reserved Font Names +ACIA-Nokyung+ACIA and +ACIA-SIL+ACIA.+AA0ACgANAAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL+AA0ACgANAAoADQAK------------------------------------------------------------+AA0ACgAA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AA0ACgAA------------------------------------------------------------+AA0ACgANAAoA-PREAMBLE+AA0ACgAA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AA0ACgANAAoA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AA0ACgANAAoA-DEFINITIONS+AA0ACgAi-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AA0ACgANAAoAIgAA-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AA0ACgANAAoAIgAA-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AA0ACgANAAoAIgAA-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AA0ACgANAAoAIgAA-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AA0ACgANAAoA-PERMISSION & CONDITIONS+AA0ACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AA0ACgANAAoA-1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AA0ACgANAAoA-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AA0ACgANAAoA-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AA0ACgANAAoA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AA0ACgANAAoA-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AA0ACgANAAoA-TERMINATION+AA0ACgAA-This license becomes null and void if any of the above conditions are not met.+AA0ACgANAAoA-DISCLAIMER+AA0ACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -101,13 +101,6 @@ Encoding: 65536 -1 0
 Width: 1024
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 256 1272 m 1
@@ -128,13 +121,6 @@ Encoding: 65537 -1 1
 Width: 0
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: CR
@@ -142,13 +128,6 @@ Encoding: 65538 -1 2
 Width: 490
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: space
@@ -3381,13 +3360,6 @@ Encoding: 8230 8230 98
 Width: 1517
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1421 108 m 0
@@ -3416,13 +3388,6 @@ Encoding: 8224 8224 99
 Width: 1024
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 924 912 m 0
@@ -3464,13 +3429,6 @@ Encoding: 8225 8225 100
 Width: 1024
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 885 -14 m 0
@@ -3533,13 +3491,6 @@ Encoding: 8249 8249 101
 Width: 758
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 351 478 m 1
@@ -3557,13 +3508,6 @@ Encoding: 8216 8216 102
 Width: 407
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 297 922 m 0
@@ -3589,13 +3533,6 @@ Encoding: 8217 8217 103
 Width: 407
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 316 1234 m 0
@@ -3621,13 +3558,6 @@ Encoding: 8220 8220 104
 Width: 760
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 663 922 m 0
@@ -3668,13 +3598,6 @@ Encoding: 8221 8221 105
 Width: 749
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 663 1232 m 0
@@ -3715,13 +3638,6 @@ Encoding: 8226 8226 106
 Width: 659
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 469 762 m 0
@@ -3741,13 +3657,6 @@ Encoding: 8211 8211 107
 Width: 688
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 570 551 m 0
@@ -3766,13 +3675,6 @@ Encoding: 8212 8212 108
 Width: 1332
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1215 553 m 0
@@ -3791,13 +3693,6 @@ Encoding: 8250 8250 109
 Width: 758
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 195 999 m 1
@@ -3964,13 +3859,6 @@ Encoding: 65539 -1 117
 Width: 0
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 -1064 -495 m 0
@@ -4008,13 +3896,6 @@ SplineSet
  -600 -369 -505 -285 -385 -285 c 0
  -271 -285 -160 -435 -140 -510 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 -254 -360.169055255 m 1
@@ -4039,13 +3920,6 @@ Encoding: 8201 8201 119
 Width: 189
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: uni2060
@@ -4053,13 +3927,6 @@ Encoding: 8288 8288 120
 Width: 1
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: uni200B
@@ -4067,13 +3934,6 @@ Encoding: 8203 8203 121
 Width: 1
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: uni25CC
@@ -4081,13 +3941,6 @@ Encoding: 9676 9676 122
 Width: 1638
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 485 266 m 0
@@ -4194,13 +4047,6 @@ Encoding: 12288 12288 123
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 EndChar
 
 StartChar: uni3001
@@ -4208,13 +4054,6 @@ Encoding: 12289 12289 124
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 506 60 m 0
@@ -4236,13 +4075,6 @@ Encoding: 12290 12290 125
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 419 165 m 0
@@ -4271,13 +4103,6 @@ Encoding: 12296 12296 126
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 999 13 m 1
@@ -4295,13 +4120,6 @@ Encoding: 12297 12297 127
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 154 -13 m 1
@@ -4319,13 +4137,6 @@ Encoding: 12298 12298 128
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 699 13 m 1
@@ -4350,13 +4161,6 @@ Encoding: 12299 12299 129
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 454 -13 m 1
@@ -4381,13 +4185,6 @@ Encoding: 65281 65281 130
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 335 108 m 0
@@ -4411,13 +4208,6 @@ Encoding: 65288 65288 131
 Width: 1099
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 935 24 m 0
@@ -4437,13 +4227,6 @@ Encoding: 65289 65289 132
 Width: 1099
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 552 700 m 0
@@ -4463,13 +4246,6 @@ Encoding: 65292 65292 133
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 371 286 m 0
@@ -4488,13 +4264,6 @@ Encoding: 65294 65294 134
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 648 111 m 0
@@ -4510,13 +4279,6 @@ Encoding: 65306 65306 135
 Width: 1000
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 321 919 m 0
@@ -4537,13 +4299,6 @@ Encoding: 65307 65307 136
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 336 213 m 0
@@ -4567,13 +4322,6 @@ Encoding: 65311 65311 137
 Width: 1100
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 565 68 m 0
@@ -4644,13 +4392,6 @@ SplineSet
  855 930 1040 718 1040 450 c 0
  1040 176 846 -20 530 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1680 -295 m 0
@@ -4711,13 +4452,6 @@ SplineSet
  882 105 1030 260 1030 470 c 4
  1030 691 872 845 635 845 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 595 805 m 0
@@ -4752,13 +4486,6 @@ SplineSet
  882 105 1030 260 1030 470 c 0
  1030 691 872 845 635 845 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 595 805 m 0
@@ -4798,13 +4525,6 @@ SplineSet
  880 970 1095 748 1095 470 c 0
  1095 186 881 -20 555 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 530 -20 m 0
@@ -4849,13 +4569,6 @@ SplineSet
  360 -25 345 -28 335 -20 c 0
  188 87 110 223 110 420 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 110 420 m 0
@@ -4919,13 +4632,6 @@ SplineSet
  988 400 l 2
  997 400 1005 390 1005 380 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 952.500000037 181.409079657 m 1
@@ -5002,13 +4708,6 @@ SplineSet
  877 550 l 2
  868 550 860 560 860 570 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 902.500000019 728.717082526 m 1
@@ -5070,13 +4769,6 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 575 1540 m 0
@@ -5138,13 +4830,6 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1580 890 m 2
@@ -5210,13 +4895,6 @@ SplineSet
  846 342 605 -22 356 -20 c 0
  221 -19 115 75 91 200 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 81 200 m 0
@@ -5290,13 +4968,6 @@ SplineSet
  1041 970 1095 813 1095 600 c 0
  1095 312 934 -20 545 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 505 -20 m 0
@@ -5389,13 +5060,6 @@ SplineSet
  1201 925 1238 930 1270 930 c 0
  1515 929 1625 722 1625 450 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 110 450 m 0
@@ -5456,13 +5120,6 @@ SplineSet
  1201 925 1238 930 1270 930 c 0
  1515 929 1625 712 1625 450 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1625 450 m 0
@@ -5546,13 +5203,6 @@ SplineSet
  1024 -740 865 -591 865 -405 c 0
  865 -377 870 -358 872 -349 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 709.165039062 -427.999023438 m 0
@@ -5645,13 +5295,6 @@ SplineSet
  1197 49 1141 -20 1051 -20 c 0
  945 -20 876 52 876 140 c 0x78
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 875 140 m 0
@@ -5716,13 +5359,6 @@ SplineSet
  859 -405 904 -443 904 -510 c 4
  904 -575 860 -620 794 -620 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 797 -635 m 0
@@ -5834,13 +5470,6 @@ SplineSet
  1563 -428 l 2
  1572 -428 1581 -436 1580 -445 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1600 -445 m 0
@@ -5888,13 +5517,6 @@ Encoding: 6589 6589 155
 Width: 1710
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 555 805 m 0
@@ -5976,13 +5598,6 @@ SplineSet
  1225 -389 1320 -305 1430 -305 c 0
  1544 -305 1655 -445 1675 -520 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1550 -359.945094232 m 1
@@ -6071,13 +5686,6 @@ SplineSet
  835.504882812 322 594.504882812 -22 345.504882812 -20 c 0
  210.504882812 -19 104.504882812 75 80.5048828125 200 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 80 200 m 0
@@ -6148,13 +5756,6 @@ SplineSet
  755 930 930 738 930 450 c 4
  930 146 756 -20 500 -20 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 500 -20 m 0
@@ -6219,13 +5820,6 @@ SplineSet
  605 -389 700 -305 810 -305 c 0
  924 -305 1035 -445 1055 -520 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 595 805 m 0
@@ -6290,13 +5884,6 @@ SplineSet
  982 873 1070 717 1070 500 c 0
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -20 m 0
@@ -6368,13 +5955,6 @@ SplineSet
  982 873 1070 717 1070 500 c 0
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -20 m 0
@@ -6434,13 +6014,6 @@ SplineSet
  1550 700 1386 805 1210 805 c 0
  1077 805 963.240234375 730 880.240234375 643 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 500 -20 m 0
@@ -6510,13 +6083,6 @@ SplineSet
  1524 910 l 2
  1533 910 1541 900 1541 890 c 2
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1541 890 m 2
@@ -6555,13 +6121,6 @@ Encoding: 6585 6585 164
 Width: 1145
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 575 1540 m 0
@@ -6636,13 +6195,6 @@ SplineSet
  251 792 419 865 575 865 c 0
  722 865 894 800 935 655 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1580 890 m 2
@@ -6734,13 +6286,6 @@ SplineSet
  2447 49 2391 -20 2301 -20 c 0x7a80
  2195 -20 2126 52 2126 140 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 875 140 m 0
@@ -6824,13 +6369,6 @@ SplineSet
  1002 1455 997 1214 1055 710 c 0
  1100 318 985 -20 575 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 575 -20 m 0
@@ -6895,13 +6433,6 @@ SplineSet
  245 158 348 105 533 105 c 0
  778 105 915 257 915 640 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 556 -20 m 0
@@ -6971,13 +6502,6 @@ SplineSet
  820 930 995 738 995 450 c 4
  995 146 821 -20 565 -20 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 555 805 m 0
@@ -7031,13 +6555,6 @@ SplineSet
  300 -20 130 82 130 280 c 0
  130 444 348 514 482 514 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 261.796343625 449.840878508 m 1
@@ -7089,13 +6606,6 @@ SplineSet
  1180 150 1058 -20 860 -20 c 0
  666 -20 606 198 606 332 c 1
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 650.75458671 124.272471042 m 1
@@ -7141,13 +6651,6 @@ SplineSet
  682 135 l 5
  872 135 1098 28 1098 -285 c 4xba
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -740 m 0
@@ -7229,13 +6732,6 @@ SplineSet
  440 -414 400 -375 335 -375 c 4
  270 -375 225 -414 225 -480 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 270 -475 m 0
@@ -7298,13 +6794,6 @@ SplineSet
  658 135 l 5
  848 135 1074 28 1074 -285 c 4xba
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 128 -442 m 0
@@ -7344,13 +6833,6 @@ Encoding: 6534 6534 175
 Width: 1250
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 655 1555 m 0
@@ -7434,13 +6916,6 @@ SplineSet
  1082 1242 1069 1250 1065 1260 c 0
  1020 1360 906 1475 710 1475 c 0xee
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 665 1555 m 0
@@ -7510,13 +6985,6 @@ SplineSet
  855 930 1040 718 1040 450 c 4
  1040 176 846 -20 530 -20 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 596 -635 m 0
@@ -7577,13 +7045,6 @@ SplineSet
  854 150 1077 -17 1077 -290 c 0
  1077 -553 894 -740 577 -740 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 580 -740 m 0
@@ -7655,13 +7116,6 @@ SplineSet
  468.99609375 -410 428.99609375 -371 363.99609375 -371 c 4
  298.99609375 -371 253.99609375 -410 253.99609375 -476 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 255 -476 m 0
@@ -7734,13 +7188,6 @@ SplineSet
  905 970 1065 676 1065 120 c 0
  1065 -435 923 -740 580 -740 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 545 -740 m 0
@@ -7792,13 +7239,6 @@ SplineSet
  1022 1342 1009 1350 1005 1360 c 4
  960 1460 846 1555 650 1555 c 4xec
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 595 1650 m 0
@@ -7896,13 +7336,6 @@ SplineSet
  1225 64 l 1
  1575 64 1744 -103 1744 -336 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 565.5 1110 m 0
@@ -7996,13 +7429,6 @@ SplineSet
  228 -372 242 -379 245 -390 c 0
  290 -540 404 -635 610 -635 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -635 m 0
@@ -8066,13 +7492,6 @@ SplineSet
  637.001953125 105 l 1
  987.001953125 105 1156.00195312 -42 1156.00195312 -305 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1160 -285 m 0
@@ -8137,13 +7556,6 @@ SplineSet
  539 65 l 1
  889 65 1058 -102 1058 -335 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1060 -295 m 0
@@ -8219,13 +7631,6 @@ SplineSet
  794 65 l 1
  984 65 1178 -102 1178 -335 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1160 -285 m 0
@@ -8287,13 +7692,6 @@ SplineSet
  997 1342 984 1350 980 1360 c 4
  935 1460 821 1555 625 1555 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 625 1650 m 0
@@ -8359,13 +7757,6 @@ SplineSet
  438.99609375 -411 398.99609375 -372 333.99609375 -372 c 4
  268.99609375 -372 223.99609375 -411 223.99609375 -477 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 223.99609375 -477 m 0
@@ -8424,13 +7815,6 @@ SplineSet
  880 970 1095 748 1095 470 c 0
  1095 186 881 -20 555 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 141 6577 S 1 0 0 1 0 0 2
 Colour: ffffff
@@ -8479,13 +7863,6 @@ SplineSet
  1041 930 1095 793 1095 580 c 4
  1095 292 904 -20 515 -20 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 965 1235 m 0
@@ -8557,13 +7934,6 @@ SplineSet
  295 930 110 718 110 450 c 0
  110 176 304 -20 620 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -20 m 0
@@ -8637,13 +8007,6 @@ SplineSet
  1430.14355469 -508 1414.14355469 -645 1275.14355469 -645 c 4
  1122.14355469 -645 1092.41308594 -364.14453125 1157.14355469 140 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1112.99707031 -635 m 0
@@ -8680,13 +8043,6 @@ Encoding: 6588 6588 193
 Width: 1685
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 930 890 m 2
@@ -8725,13 +8081,6 @@ Encoding: 6576 6576 194
 Width: 1136
 Flags: HMW
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1026 235 m 0
@@ -8797,13 +8146,6 @@ SplineSet
  344 845 235 719 235 470 c 0
  235 208 369 105 566 105 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 566 105 m 0
@@ -8859,13 +8201,6 @@ SplineSet
  1015 320 1023 310 1023 300 c 0
  1023 168 893 -20 586 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 586 -20 m 0
@@ -8916,13 +8251,6 @@ SplineSet
  1385 18 l 2
  1385 7 1375 0 1365 0 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 90 0 m 0
@@ -8977,13 +8305,6 @@ SplineSet
  954 -698 l 2
  949 -692 950 -686 958 -678 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 948 -678 m 0
@@ -9069,13 +8390,6 @@ SplineSet
  1269 -477 1352 -453 1352 -395 c 0
  1352 -353 1280 -320 1197 -320 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1047 -270 m 0
@@ -9178,13 +8492,6 @@ SplineSet
  539 65 l 1
  889 65 1058 -102 1058 -335 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1060 -295 m 0
@@ -9270,13 +8577,6 @@ SplineSet
  982 873 1070 717 1070 500 c 0
  1070 185 868 -20 590 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 590 -20 m 0
@@ -9374,13 +8674,6 @@ SplineSet
  1585 -488 1424 -580 1200 -580 c 0
  976 -580 820 -488 820 -345 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 380 -495 m 0
@@ -9448,13 +8741,6 @@ SplineSet
  245 230 354 105 530 105 c 0
 EndSplineSet
 Refer: 149 6560 N 1 0 0 1 0 0 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 345 -495 m 0
@@ -9516,13 +8802,6 @@ SplineSet
  1020 -488 859 -580 635 -580 c 0
  411 -580 255 -488 255 -345 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 117 -1 N 1 0 0 1 1217 0 2
 Refer: 175 6534 N 1 0 0 1 0 0 2
@@ -9570,13 +8849,6 @@ SplineSet
  1382 1455 1377 1214 1435 710 c 1
  1491 298 1415 -20 1120 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 117 -1 S 1 0 0 1 1452 0 2
 Refer: 213 6622 N 1 0 0 1 0 0 2
@@ -9612,13 +8884,6 @@ SplineSet
  166 166 178 166 189 162 c 0
  270 132 437 104 550 105 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 550 105 m 1
@@ -9678,13 +8943,6 @@ SplineSet
  1385 -537 1266 -565 1179 -555 c 0
 EndSplineSet
 Refer: 149 6560 N 1 0 0 1 0 0 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1179 -555 m 0
@@ -9763,13 +9021,6 @@ SplineSet
  1480 -425 l 6
  1480 -557 1439 -625 1330 -625 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1320 -635 m 0
@@ -9844,13 +9095,6 @@ SplineSet
  582 527 l 6
  589 532 600 528 608 522 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 925.001953125 115 m 2
@@ -9915,13 +9159,6 @@ SplineSet
  594 527 l 6
  601 532 612 528 620 522 c 4
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 658.147460938 549.6640625 m 0
@@ -9996,13 +9233,6 @@ SplineSet
  295 930 110 718 110 450 c 0
  110 176 304 -20 620 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 600 105 m 1
@@ -10093,13 +9323,6 @@ SplineSet
  568 310 638 242 636 160 c 0
  633 48 544 -20 451 -20 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 565 803 m 0
@@ -10156,13 +9379,6 @@ SplineSet
  1307 1650 1275 1310 1329 830 c 0
  1368 485 1374 105 1117 105 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1117 105 m 0
@@ -10230,13 +9446,6 @@ SplineSet
  643 718 747 930 930 930 c 0
  1180.68864391 930 1280.36914062 730.133789062 1282.99707031 430 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1232.99707031 450 m 1
@@ -10299,13 +9508,6 @@ SplineSet
  418 805 255 603 255 140 c 0
  255 -350 389 -635 665 -635 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 625 -635 m 0
@@ -10362,13 +9564,6 @@ SplineSet
  695 646 759 593 821 550 c 0
  906.220974172 490.895130816 1010 390 1010 255 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 1010 275 m 0
@@ -10431,13 +9626,6 @@ SplineSet
  1010 -488 849 -580 625 -580 c 0
  401 -580 245 -488 245 -345 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 Refer: 117 -1 N 1 0 0 1 1217 0 2
 Refer: 142 6533 N 1 0 0 1 0 0 2
@@ -10485,13 +9673,6 @@ SplineSet
  989 -488 828 -580 604 -580 c 0
  380 -580 224 -488 224 -345 c 0
 EndSplineSet
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 869.533077251 237.415620833 m 1
@@ -10530,13 +9711,6 @@ Flags: HW
 HStem: -700 105<525.802 978.679> -210 105<808.136 1272.63>
 VStem: 380 114<-557.7 -404.777> 1310 114<-397.998 -249.963>
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 380 -495 m 0
@@ -10607,13 +9781,6 @@ SplineSet
  934 135 1160 28 1160 -285 c 0
 EndSplineSet
 Refer: 117 -1 N 1 0 0 1 1232 0 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 655 1555 m 0

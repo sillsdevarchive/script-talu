@@ -8,10 +8,10 @@ OUTDIR="installers"
 ZIPDIR="releases"
 TESTDIR='test-suite'
 
-APPNAME="NokyungAB"
+APPNAME="NokyungAC"
 VERSION="1.001"
 
-font(target = 'NokyungAB.ttf',
+font(target = 'NokyungAC.ttf',
 	 source = 'font-source/Nokyung-R-no.sfd',
 	 version = VERSION,
 	 license = ofl('Nokyung'),
