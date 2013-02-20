@@ -2,11 +2,11 @@ tasks.txt - script-talu project
 
 Current
 
-- Convert FontLab sources to FontForge
-	- Check glyph names and encoding
-	- Check metadata
-- Add two additional glyphs (U+19AA..19AB)
-- Changes to two numerals (U+19D2 & U+19D4)
+x Convert FontLab sources to FontForge
+	x Check glyph names and encoding
+	x Check metadata
+x Add two additional glyphs (U+19AA..19AB)
+x Changes to two numerals (U+19D2 & U+19D4)
 - Revise punctuation size, position, spacing
 	- Need further guidance on this
 - Adjust design as per feedback

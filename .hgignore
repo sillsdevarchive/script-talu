@@ -1,3 +1,12 @@
 syntax: glob
 fonts/nokyung/font-source/Nokyung-B.sfd~
 fonts/nokyung/font-source/Nokyung-R.sfd~
+admin/tasks.txt~
+fonts/nokyung/wscript~
+fonts/nokyung/results/config.log
+fonts/nokyung/results/c4che/build.config.py
+fonts/nokyung/results/c4che/_cache.py
+fonts/nokyung/results/.wafpickle-98
+fonts/nokyung/results/.lock-wafbuildlinux2
+fonts/nokyung/.lock-wafbuildlinux2
+fonts/nokyung/font-source/Nokyung-R-no.sfd~
