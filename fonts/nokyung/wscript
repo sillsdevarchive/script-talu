@@ -9,7 +9,7 @@ ZIPDIR="releases"
 TESTDIR='test-suite'
 
 APPNAME="NokyungAA"
-VERSION=1.001
+VERSION="1.001"
 
 font(target = 'NokyungAA.ttf',
 	 source = 'font-source/Nokyung-R-no.sfd',
