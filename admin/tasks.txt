@@ -8,16 +8,15 @@ x Convert FontLab sources to FontForge
 x Add two additional glyphs (U+19AA..19AB)
 x Changes to two numerals (U+19D2 & U+19D4)
 x Incorporate source files from Dai Banna project
+x Add unicode range bits setting
+x Add gdl to wscript
 
 Current
 
-- Add unicode range bits setting to wscript
-- Add gdl to wscript
 - Test gdl code
-
 - Revise DB from latest feedback
 - Revise punctuation size, position, spacing, need further guidance on this
-- Add roman sans serif glyphs and any others recommended
+- Add roman sans serif glyphs and any others recommended, review Roman Unicode ranges
 - Generate and test
 - Release "Nokyung Design Review" (beta)
 
