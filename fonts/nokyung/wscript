@@ -16,6 +16,6 @@ font(target = 'NokyungBAtest.ttf',
 	 version = VERSION,
 	 license = ofl('Nokyung'),
 	 copyright = 'Copyright (c) 2008-2013 SIL International',
-	 script='talu'
+	 script='talu',
 	 graphite=gdl(master='font-source/tlue.gdl', no_make=1)
 )
