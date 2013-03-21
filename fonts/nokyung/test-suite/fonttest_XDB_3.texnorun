@@ -9,7 +9,7 @@
 %\landscape will turn page
 %\landscapefalse will undo it
 
-\testfont{NokyungAC}
+\testfont{[NokyungBAtest.ttf]/GR}
 
 %\testfont{Dai Banna SIL Light}
 %font features can be specified as part of the font name (see separate docs)
