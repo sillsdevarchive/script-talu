@@ -12,7 +12,7 @@ APPNAME="NokyungBA"
 VERSION="1.001"
 
 font(target = 'NokyungBAtest.ttf',
-	 source = create("Nokyung-R-not.sfd", cmd("python ../font-source/FFRemoveOverlapAll.py ${SRC} ${TGT}", ["font-source/Nokyung-R.sfd"]), cmd("python ../font-source/FFRemoveOverlapAll.py ${DEP} ${TGT}")),
+	 source = create("Nokyung-R-not.sfd", cmd("python ../bin/FFRemoveOverlapAll.py ${SRC} ${TGT}", ["font-source/Nokyung-R.sfd"]), cmd("python ../bin/FFRemoveOverlapAll.py ${DEP} ${TGT}")),
 	 version = VERSION,
 	 license = ofl('Nokyung'),
 	 copyright = 'Copyright (c) 2008-2013 SIL International',
