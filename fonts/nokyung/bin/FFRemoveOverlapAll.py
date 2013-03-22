@@ -1,7 +1,8 @@
+#! /usr/bin/env python
 # FFRemoveOverlapAll.py
 # FontForge: Remove overlap on all glyphs in font
 # VG 22 Feb 2012
-# usage: python FFRemoveOverlapAll.py [sourcefont.sfd] [resultfont.sfd]
+# usage: FFRemoveOverlapAll.py [sourcefont.sfd] [resultfont.sfd]
 
 import sys, fontforge
 
