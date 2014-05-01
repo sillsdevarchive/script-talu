@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: NokyungBA
-FullName: NokyungBA
-FamilyName: NokyungBA
+FontName: NokyungTestCA
+FullName: NokyungTestCA
+FamilyName: NokyungTestCA
 Weight: Normal
-Copyright: Copyright (c) 2008-2013 SIL International
-Version: 001.001
+Copyright: Copyright (c) 2008-2014 SIL International
+Version:
 ItalicAngle: 0
 UnderlinePosition: -113
 UnderlineWidth: 20
@@ -19,8 +19,8 @@ FSType: 0
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1227525540
-ModificationTime: 1363859096
+CreationTime: 1363859104
+ModificationTime: 1398955549
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -55,7 +55,7 @@ OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 00000001.00000000.80000000.00000000
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Regular" "" "" "Version 1.000" "" "Nokyung is a trademark of SIL International." "SIL International" "Julie Remington & Victor Gaultney" "Copyright (c) 2008-2013 SIL International" "http://www.sil.org/" "" "Copyright (c) 2008-2013 SIL International (http://www.sil.org/), with Reserved Font Names +ACIA-Nokyung+ACIA and +ACIA-SIL+ACIA.+AA0ACgANAAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL+AA0ACgANAAoADQAK------------------------------------------------------------+AA0ACgAA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AA0ACgAA------------------------------------------------------------+AA0ACgANAAoA-PREAMBLE+AA0ACgAA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AA0ACgANAAoA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AA0ACgANAAoA-DEFINITIONS+AA0ACgAi-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AA0ACgANAAoAIgAA-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AA0ACgANAAoAIgAA-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AA0ACgANAAoAIgAA-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AA0ACgANAAoAIgAA-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AA0ACgANAAoA-PERMISSION & CONDITIONS+AA0ACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AA0ACgANAAoA-1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AA0ACgANAAoA-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AA0ACgANAAoA-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AA0ACgANAAoA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AA0ACgANAAoA-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AA0ACgANAAoA-TERMINATION+AA0ACgAA-This license becomes null and void if any of the above conditions are not met.+AA0ACgANAAoA-DISCLAIMER+AA0ACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl"
+LangName: 1033 "" "" "Regular" "" "" "Version 0.500" "" "Nokyung is a trademark of SIL International." "SIL International" "Julie Remington & Victor Gaultney" "Copyright (c) 2008-2014 SIL International" "http://www.sil.org/" "" "Copyright (c) 2008-2014 SIL International (http://www.sil.org/), with Reserved Font Names +ACIA-Nokyung+ACIA and +ACIA-SIL+ACIA.+AA0ACgANAAoA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AA0ACgAA-This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL+AA0ACgANAAoADQAK------------------------------------------------------------+AA0ACgAA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AA0ACgAA------------------------------------------------------------+AA0ACgANAAoA-PREAMBLE+AA0ACgAA-The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.+AA0ACgANAAoA-The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.+AA0ACgANAAoA-DEFINITIONS+AA0ACgAi-Font Software+ACIA refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.+AA0ACgANAAoAIgAA-Reserved Font Name+ACIA refers to any names specified as such after the copyright statement(s).+AA0ACgANAAoAIgAA-Original Version+ACIA refers to the collection of Font Software components as distributed by the Copyright Holder(s).+AA0ACgANAAoAIgAA-Modified Version+ACIA refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.+AA0ACgANAAoAIgAA-Author+ACIA refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.+AA0ACgANAAoA-PERMISSION & CONDITIONS+AA0ACgAA-Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:+AA0ACgANAAoA-1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.+AA0ACgANAAoA-2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.+AA0ACgANAAoA-3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.+AA0ACgANAAoA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.+AA0ACgANAAoA-5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.+AA0ACgANAAoA-TERMINATION+AA0ACgAA-This license becomes null and void if any of the above conditions are not met.+AA0ACgANAAoA-DISCLAIMER+AA0ACgAA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/ofl"
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -72,25 +72,25 @@ ExpansionFactor 4 0.06
 EndPrivate
 Grid
 -2048 1555 m 0
- 4096 1555 l 0
+ 4096 1555 l 1024
   Named: "a1555"
 -2048 -635 m 0
- 4096 -635 l 0
+ 4096 -635 l 1024
   Named: "d635"
 -2048 -19.9999694824 m 0
- 4096 -19.9999694824 l 0
+ 4096 -19.9999694824 l 1024
   Named: "o20"
 -2048 -740 m 0
- 4096 -740 l 0
+ 4096 -740 l 1024
   Named: "d740"
 -2048 1650 m 0
- 4096 1650 l 0
+ 4096 1650 l 1024
   Named: "a1650"
 -2048 930.028198242 m 0
- 4096 930.028198242 l 0
+ 4096 930.028198242 l 1024
   Named: "o930"
 -2048 910.028190613 m 0
- 4096 910.028190613 l 0
+ 4096 910.028190613 l 1024
   Named: "x910"
 EndSplineSet
 TeXData: 1 0 0 250880 125440 83626 468992 -1048576 83626 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -2260,7 +2260,7 @@ SplineSet
  702 -402 708 -390 718 -386 c 6
  750 -375 l 6
  758 -372 772 -379 775 -390 c 4
- 820 -540 934 -635 1140 -635 c 4
+ 820 -540 934 -635 1140 -635 c 1028
 110 450 m 0
  110 158 261 -20 508 -20 c 0
  796 -20 891 178 933 455 c 0
@@ -2769,7 +2769,7 @@ SplineSet
  1483 1211 1476 1220 1476 1230 c 4
  1476 1419 1455 1535 1316 1535 c 4
  1133 1535 1138 1254 1206 750 c 4
- 1259 359 1196 -20 756 -20 c 4xf2
+ 1259 359 1196 -20 756 -20 c 1028xf2
 1120.50488281 200 m 0
  1096.50488281 75 990.504882812 -19 855.504882812 -20 c 0
  606.504882812 -22 365.504882812 322 365.504882812 590 c 0
@@ -3463,7 +3463,7 @@ SplineSet
  1303 1211 1296 1220 1296 1230 c 0
  1296 1419 1280 1535 1141 1535 c 0
  988 1535 958.26953125 1274.14453125 1023 770 c 0
- 1073.23535156 378.75 996 -20 576 -20 c 0xe4
+ 1073.23535156 378.75 996 -20 576 -20 c 1024xe4
 575 -20 m 0
  311 -20 110 184 110 500 c 0
  110 731 191 889 370 970 c 0
@@ -3521,7 +3521,7 @@ SplineSet
  1281 1211 1274 1220 1274 1230 c 4
  1274 1389 1263 1535 1124 1535 c 4
  958 1535 945 1244 994 830 c 4
- 1046 386 1005 -20 655 -20 c 5xf9
+ 1046 386 1005 -20 655 -20 c 1029xf9
 477 430 m 0xfd
  276 430 120 509 120 680 c 0
  120 815 233 930 400 930 c 0
@@ -3544,7 +3544,7 @@ SplineSet
  497 438 487 430 477 430 c 0
  291 430 245 354 245 280 c 0
  245 158 348 105 533 105 c 0
- 778 105 915 257 915 640 c 0
+ 778 105 915 257 915 640 c 1024
 EndSplineSet
 Fore
 SplineSet
@@ -5033,7 +5033,7 @@ SplineSet
  904 1211 l 6
  893 1211 886 1220 886 1230 c 4
  886 1419 870 1535 731 1535 c 4
- 578 1535 548.26953125 1274.14453125 613 770 c 4
+ 578 1535 548.26953125 1274.14453125 613 770 c 1028
 620 -20 m 0
  767 -20 933 33 1040 175 c 0
  1048 185 1045 200 1034 207 c 2
@@ -5121,7 +5121,7 @@ SplineSet
  1448.14355469 -300 l 6
  1437.14355469 -300 1430.14355469 -309 1430.14355469 -319 c 4
  1430.14355469 -508 1414.14355469 -645 1275.14355469 -645 c 4
- 1122.14355469 -645 1092.41308594 -364.14453125 1157.14355469 140 c 4
+ 1122.14355469 -645 1092.41308594 -364.14453125 1157.14355469 140 c 1028
 EndSplineSet
 Fore
 SplineSet
@@ -5299,7 +5299,7 @@ SplineSet
  897.82421875 254.369140625 909 258 920 251 c 6
  989 207 l 6
  1000 200 1002.8828125 185.092773438 995 175 c 4
- 888 38 752 -20 545 -20 c 4
+ 888 38 752 -20 545 -20 c 1028
 586 -20 m 0
  251 -20 120 192 120 480 c 0
  120 794 290 970 576 970 c 0
@@ -5867,7 +5867,6 @@ SplineSet
  298 815 245 630 245 470 c 0
  245 230 354 105 530 105 c 0
 EndSplineSet
-Refer: 71 6560 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 459 -485 m 0
@@ -5881,6 +5880,7 @@ SplineSet
  1389 -508 999 -700 655 -700 c 0
  491 -700 345 -638 345 -495 c 0
 EndSplineSet
+Refer: 71 6560 N 1 0 0 1 0 0 2
 Refer: 71 6560 N 1 0 0 1 0 0 2
 Colour: ffffff
 EndChar
@@ -6069,7 +6069,6 @@ SplineSet
  1298 -290 1385 -348 1385 -430 c 0
  1385 -537 1266 -565 1179 -555 c 0
 EndSplineSet
-Refer: 71 6560 N 1 0 0 1 0 0 2
 Fore
 SplineSet
 1179 -555 m 0
@@ -6096,6 +6095,7 @@ SplineSet
  1298 -290 1385 -348 1385 -430 c 0
  1385 -537 1266 -565 1179 -555 c 0
 EndSplineSet
+Refer: 71 6560 N 1 0 0 1 0 0 2
 Refer: 71 6560 N 1 0 0 1 0 0 2
 Colour: ffffff
 EndChar
@@ -6257,14 +6257,14 @@ SplineSet
  550 510 l 6
  539 510 532 520 532 530 c 4
  532 579 543 635 553 672 c 4
- 594 826 755 930 932 930 c 4
+ 594 826 755 930 932 930 c 1028
 217 930 m 4
  394 930 555 826 596 672 c 4
  606 635 617 579 617 530 c 4
  617 520 610 510 599 510 c 6
  549 510 l 6
  540 510 532 520 532 530 c 4
- 532 701 384 805 217 805 c 4
+ 532 701 384 805 217 805 c 1028
 620 522 m 4
  674 482 733 404 733 282 c 4
  733 63 619 -20 492 -20 c 4
@@ -6865,7 +6865,7 @@ SplineSet
  1165.17675781 -59.9287109375 1163.59570312 -66.8212890625 1155.96972656 -71.6015625 c 2
  1119.53710938 -94.4404296875 l 2
  1111.91113281 -99.220703125 1103.00878906 -100.080078125 1095.47167969 -91.822265625 c 0
- 943.149414062 66.443359375 723.170898438 87.8779296875 506.265625 -48.0927734375 c 0
+ 943.149414062 66.443359375 723.170898438 87.8779296875 506.265625 -48.0927734375 c 1024
 655 1555 m 0
  358 1555 260 1308.31835938 260 1050 c 0
  260 907.318359375 270 795.318359375 283 717 c 1
@@ -6904,7 +6904,6 @@ SplineSet
  744 135 l 1
  934 135 1160 28 1160 -285 c 0
 EndSplineSet
-Refer: 39 -1 N 1 0 0 1 1232 0 2
 Fore
 SplineSet
 744.5 69.5 m 0xe0
@@ -6941,6 +6940,7 @@ SplineSet
  110 725 347 930 635 930 c 0
  949 930 1140 766 1140 480 c 0xf2
 EndSplineSet
+Refer: 39 -1 N 1 0 0 1 1232 0 2
 Refer: 39 -1 N 1 0 0 1 1217 0 2
 Colour: ffffff
 EndChar
